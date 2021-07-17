@@ -1,0 +1,2 @@
+E:\New folder\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
+E:\New folder\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
